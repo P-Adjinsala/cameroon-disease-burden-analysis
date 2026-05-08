@@ -103,4 +103,4 @@ jupyter notebook cameroon_disease_burden.ipynb
 
 **Author:** Pantouin Adjinsala · University Lecturer & Civic Tech Contributor, AfricTivistes CitizenLab Cameroon  
 **Data:** World Bank Open Data (CC BY 4.0) · WHO Global Health Observatory  
-**Part of:** [AI for Social Good portfolio](https://github.com/YOUR_USERNAME)
+**Part of:** [AI for Social Good portfolio](https://github.com/P-Adjinsala/padjinsala)
